@@ -2,7 +2,8 @@
 
 ## Introducción
 
-Dentro de AgentOps, el Registro es un componente encargado de almacenar, administrar y versionar los artefactos utilizados por los agentes inteligentes. Estos artefactos pueden incluir imágenes de contenedores, configuraciones, dependencias, modelos y componentes necesarios para la operación de sistemas basados en inteligencia artificial.
+Dentro de AgentOps, el Registro es un componente encargado de almacenar, administrar y versionar los artefactos utilizados por los agentes inteligentes. 
+Estos artefactos pueden incluir imágenes de contenedores, configuraciones, dependencias, modelos y componentes necesarios para la operación de sistemas basados en inteligencia artificial.
 
 ## Importancia del Registro en AgentOps
 
