@@ -2,9 +2,9 @@
 
 ## 1. Introducción
 
-Durante el desarrollo del proyecto **AgentOps-Registro**, las herramientas de inteligencia artificial pueden utilizarse como apoyo para investigar, generar ideas, elaborar documentación y comprender configuraciones técnicas.
+Durante el desarrollo del proyecto AgentOps-Registro, las herramientas de inteligencia artificial pueden utilizarse como apoyo para investigar, generar ideas, elaborar documentación y comprender configuraciones técnicas.
 
-El concepto de **Vibe Coding** se relaciona con el desarrollo de código mediante instrucciones en lenguaje natural y asistencia de inteligencia artificial. Aunque estas herramientas pueden facilitar el trabajo, es importante revisar el contenido generado y comprobar que funcione correctamente.
+El concepto de Vibe Coding se relaciona con el desarrollo de código mediante instrucciones en lenguaje natural y asistencia de inteligencia artificial. Aunque estas herramientas pueden facilitar el trabajo, es importante revisar el contenido generado y comprobar que funcione correctamente.
 
 ---
 
@@ -48,7 +48,7 @@ El concepto de **Vibe Coding** se relaciona con el desarrollo de código mediant
 ## 7. Trazabilidad
 
 - Es recomendable conservar la documentación de las configuraciones, comandos, cambios y resultados obtenidos.
-- El uso de **Markdown** y **GitHub** permite mantener organizados los archivos y consultar las modificaciones realizadas durante el desarrollo.
+- El uso de Markdown y GitHub permite mantener organizados los archivos y consultar las modificaciones realizadas durante el desarrollo.
 
 ---
 
@@ -68,6 +68,6 @@ El concepto de **Vibe Coding** se relaciona con el desarrollo de código mediant
 
 ## 10. Conclusión
 
-El **Vibe Coding** puede facilitar la investigación y el desarrollo de proyectos tecnológicos, siempre que se utilice de manera responsable.
+El Vibe Coding puede facilitar la investigación y el desarrollo de proyectos tecnológicos, siempre que se utilice de manera responsable.
 
 La revisión humana, la validación de resultados, la protección de información y la honestidad académica son principios fundamentales para utilizar la inteligencia artificial como herramienta de apoyo sin sustituir el aprendizaje ni la responsabilidad del estudiante.
